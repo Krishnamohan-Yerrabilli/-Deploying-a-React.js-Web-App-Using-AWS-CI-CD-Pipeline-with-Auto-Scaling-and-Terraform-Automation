@@ -16,11 +16,10 @@ Introduction This project showcases how to deploy a React.js web application fro
 
 ### Step 1: Cloning the React App
 To start, clone the React.js application’s source code from GitHub:
-
-  git clone <github-repo-urlhttps://github.com/react-navigation/create-react-app-example>
-
-![Screenshot from 2024-09-28 12-12-43](https://github.com/user-attachments/assets/9cc94226-10b9-4601-92b1-f5aa7b7c6be2)
-
+```
+  git clone github-repo-urlhttps://github.com/react-navigation/create-react-app-example
+```
+![Picture](https://github.com/user-attachments/assets/ae3f2d51-fdf6-47fc-a934-93ed758df6bd)
 
 ### Step 2: Setting Up AWS EC2 Instance
 Configure an EC2 instance for hosting the web application. Prior to that these are the following steps to create and configure VPC, subnets, route tables, and security groups.
