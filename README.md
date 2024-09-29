@@ -1,0 +1,2 @@
+# -Deploying-a-React.js-Web-App-Using-AWS-CI-CD-Pipeline-with-Auto-Scaling-and-Terraform-Automation
+Introduction This project showcases how to deploy a React.js web application from start to finish using AWS services, automation tools, and infrastructure as code (IaC). The main goal is to create a scalable infrastructure using CI/CD pipelines, automated resource scaling, and Terraform for one-click deployment.
