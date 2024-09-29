@@ -17,7 +17,7 @@ Introduction This project showcases how to deploy a React.js web application fro
 ### Step 1: Cloning the React App
 To start, clone the React.js application’s source code from GitHub:
 ```
-  git clone github-repo-urlhttps://github.com/react-navigation/create-react-app-example
+  git clone https://github.com/react-navigation/create-react-app-example
 ```
 ![Picture](https://github.com/user-attachments/assets/ae3f2d51-fdf6-47fc-a934-93ed758df6bd)
 
