@@ -76,7 +76,11 @@ Before creating an EC2 instance, several configurations need to be set up to ens
 
 #### Click on create VPC:
 
+<div align="center">
+
 ![Screenshot from 2024-09-28 12-32-21](https://github.com/user-attachments/assets/64a45b15-58dd-4860-8f29-5f8e7ed4ef5e)
+
+</div>
 
 ### 3. Create Subnets:
 
